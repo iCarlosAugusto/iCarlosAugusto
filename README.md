@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Fullstack Dev
-- 🌱 I’m currently learning Vue and PHP OOP.
+- 🔭 Mobile Dev
+- 🌱 I’m currently learning React Native.
 <div>
   <a href="https://github.com/iCarlosAugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iCarlosAugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
