@@ -1,9 +1,6 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 Mobile Dev
-- 🌱 I’m currently learning React Native.
+### Hello! 
+- 🔭 Front-end Developer
+- 🌱 I’m currently learning React and NodeJS
 <div>
   <a href="https://github.com/iCarlosAugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iCarlosAugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
