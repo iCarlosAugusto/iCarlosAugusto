@@ -1,9 +1,9 @@
 ### Hello! 😀 
-- 🎈 Front-end Developer
-- 📚 I’m currently learning React and NodeJS
-- 📫 My email: carlosaugustodelimavieira@protonmail.com
-- 📜 Linkedin: https://www.linkedin.com/in/carlos-augusto-6732811a5/
-- 📞 Number: (62) 9 8239-9800 
+ 🎈 Front-end Developer
+ 📚 I’m currently learning React and NodeJS
+ 📫 My email: carlosaugustodelimavieira@protonmail.com
+ 📜 Linkedin: https://www.linkedin.com/in/carlos-augusto-6732811a5/
+ 📞 Number: (62) 9 8239-9800 
 <div>
   <a href="https://github.com/iCarlosAugusto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iCarlosAugusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
