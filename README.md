@@ -1,7 +1,7 @@
 ### Hello! 😀 
  - 🎈 Front-end and Mobile Developer
  - 📚 I’m currently learning NodeJS and Flutter
- - 📫 My email: carlosaugustodelimavieira@protonmail.com
+ - 📫 My email: augusto.dev@protonmail.com
  - 📜 Linkedin: https://www.linkedin.com/in/carlos-augusto-6732811a5/
  - 📞 Number: (62) 9 8239-9800 
   
